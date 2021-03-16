@@ -1,0 +1,29 @@
+{
+  "name": "employee-summary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwright323/Employee-Summary.git"
+  },
+  "author": "Jamal Wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwright323/Employee-Summary/issues"
+  },
+  "homepage": "https://github.com/jwright323/Employee-Summary#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
